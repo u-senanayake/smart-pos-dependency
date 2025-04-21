@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>lk.udcreations</groupId>
 	<artifactId>smart-pos-dependency</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>smart-pos-dependency</name>
 	<description>Common Dependencies project for Spring Boot</description>
 	<url/>
