@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>lk.udcreations</groupId>
-	<artifactId>common-dep</artifactId>
-	<version>1.1.0</version>
-	<name>common-dep</name>
+	<artifactId>smart-pos-dependency</artifactId>
+	<version>0.0.1</version>
+	<name>smart-pos-dependency</name>
 	<description>Common Dependencies project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -117,9 +117,9 @@
 
 	<distributionManagement>
     	<repository>
-      		<id>github</id>
+      		<id>smart-pos-dependency</id>
       		<name>GitHub UDCreations Apache Maven Packages</name>
-      		<url>https://maven.pkg.github.com/UD-Creations/smartpos-common-dep</url>
+      		<url>https://maven.pkg.github.com/u-senanayake/smart-pos-dependency</url>
     	</repository>
   	</distributionManagement>
 </project>
